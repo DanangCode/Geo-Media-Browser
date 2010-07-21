@@ -1,0 +1,8 @@
+In this Mashup I take photosets from flickr and explore them through a san francisco map interface. 
+
+Installation: 
+1 Register for an API key at Flickr
+2 download the three files into a directory
+3 Change the API key in geobrowser.js
+4 doubleclick on index.html
+
