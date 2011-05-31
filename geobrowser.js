@@ -1,4 +1,5 @@
-  JW_API_KEY = "28dc29f7d5fcf4a473594f1595db8340";
+  //Add A Flickr API Key
+  JW_API_KEY = "XXXXXXXX";
   JW_FLICKR_URL = "http://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=" + JW_API_KEY + "&user_id=31355801%40N05&has_geo=1&extras=geo%2Cdate_taken&sort=date-taken-asc";  
        
   var jw_browser; //global!
